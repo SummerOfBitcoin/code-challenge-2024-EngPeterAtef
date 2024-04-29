@@ -1,0 +1,2 @@
+"0200000050120119172a610421a6c3011dd330d9df07b63616c2cc1f1cd002000000000071f3cb2b4bed4b0c7a37795bf8d8912fb12c86e6448fd2f3bf9a36123480c99942b42f66"
+{"locktime": 0, "txid": "coinbase_txid_placeholder", "version": 2, "vin": [{"prevout": {"scriptpubkey": "coinbase_scriptpubkey", "value": 50}, "txid": 0, "vout": 4294967295}], "vout": [{"scriptpubkey": "coinbase_scriptpubkey", "value": 50}]}
